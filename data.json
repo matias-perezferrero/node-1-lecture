@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu"
+    },
+    {
+        "id": 2,
+        "name": "Charmander"
+    },
+    {
+        "id": 3,
+        "name": "Charmeleon"
+    },
+    {
+        "id": 4,
+        "name": "Charizard"
+    },
+    {
+        "id": 5,
+        "name": "Squirtle"
+    },
+    {
+        "id": 6,
+        "name": "Wartortle"
+    },
+    {
+        "id": 7,
+        "name": "Blastoise"
+    },
+    {
+        "id": 8,
+        "name": "Bulbasaur"
+    },
+    {
+        "id": 9,
+        "name": "Ivysaur"
+    },
+    {
+        "id": 10,
+        "name": "Venosaur"
+    }
+]
